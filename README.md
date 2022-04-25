@@ -4,7 +4,9 @@ java script library to generate avatar with name initials:)
 
 # Installation
 
-`npm i avatarjs --save`
+`npm i avatarinit --save`
+
+# https://www.npmjs.com/package/avatarinit
 
 usage...
 
