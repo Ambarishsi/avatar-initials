@@ -11,7 +11,7 @@ java script library to generate avatar with name initials:)
 usage...
 
 ```
-import {avatar_initials, getInitials} from 'avatarjs';
+import {avatar_initials, getInitials} from 'avatarinit';
 
 
 avatar_initials({
