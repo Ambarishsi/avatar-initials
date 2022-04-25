@@ -1,0 +1,24 @@
+{
+  "name": "avatarinit",
+  "version": "1.0.2",
+  "description": "generates avatar with name initials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ambarishsi/avatar-initials.git"
+  },
+  "keywords": [
+    "avatar",
+    "name",
+    "initials"
+  ],
+  "author": "Ambarish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ambarishsi/avatar-initials/issues"
+  },
+  "homepage": "https://github.com/Ambarishsi/avatar-initials#readme"
+}
