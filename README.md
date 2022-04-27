@@ -24,13 +24,14 @@ avatar_initials({
 })
 
 ```
-## update in this version(1.1.2):
+## update in this version(1.1.3):
 
   * you can pass 'n' numbers of color, if u want same background color for all the avatar then just pass one color in the         background array.
 
   * also you can pass either color name or hex code of the color.
 
-  * ### https://discord.gg/QafWk8msHN
+  * for any query or suggestion, please join our discord server: 
+  ### https://discord.gg/QafWk8msHN
 
 
 
