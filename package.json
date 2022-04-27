@@ -1,6 +1,6 @@
 {
   "name": "avatarinit",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "generates avatar with name initials",
   "main": "index.js",
   "scripts": {

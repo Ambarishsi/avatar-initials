@@ -24,7 +24,7 @@ avatar_initials({
 })
 
 ```
-## update in this version(1.1.3):
+## update in this version(1.1.4):
 
   * you can pass 'n' numbers of color, if u want same background color for all the avatar then just pass one color in the         background array.
 
@@ -96,6 +96,7 @@ export class TestComponentComponent implements OnInit {
   <br>
   <div class="avatar_initials"> {{getName('java','script')}}</div>
 ```
+
 ***Result
 
 ![image](https://user-images.githubusercontent.com/19625099/165595348-d11b4018-f03b-4134-a5dc-4b095978b972.png)
