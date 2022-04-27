@@ -96,3 +96,5 @@ export class TestComponentComponent implements OnInit {
   <br>
   <div class="avatar_initials"> {{getName('java','script')}}</div>
 ```
+***Result
+![image](https://user-images.githubusercontent.com/19625099/165186008-76a0e230-8f09-4d24-82b1-687dd8bc7230.png)
