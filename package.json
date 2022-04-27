@@ -1,6 +1,6 @@
 {
   "name": "avatarinit",
-  "version": "1.0.2",
+  "version": "1.1.2",
   "description": "generates avatar with name initials",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,9 @@
   "keywords": [
     "avatar",
     "name",
-    "initials"
+    "initials",
+    "avatar-initials",
+    "avatar-name"
   ],
   "author": "Ambarish",
   "license": "ISC",

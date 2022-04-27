@@ -2,7 +2,7 @@ function avatar_initials(options){
 
     let avatars = document.querySelectorAll('.avatar_initials');
    
-    avatars.forEach(avatar => {
+    avatars.forEach((avatar, index) => {
 
         avatar.style.display = 'flex';
         avatar.style.justifyContent = 'center';
@@ -28,7 +28,7 @@ function avatar_initials(options){
         }
 
         if(options.background){
-            avatar.style.background = `${options.background}`;
+            avatar.style.background = `${options.background[index % options.background.length]}`;
         }else{
             avatar.style.background = 'grey';
         }

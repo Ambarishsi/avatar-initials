@@ -18,12 +18,22 @@ avatar_initials({
     width: '50px',
     height: '50px',
     font_weight: '600',
-    background: 'grey',
+    background: ['#f44336', '#e91e63', '#9c27b0', '#673ab7', '#3f51b5'],
     color: 'red',
     padding: '2px'
 })
 
 ```
+## update in this version(1.1.2):
+
+  * you can pass 'n' numbers of color, if u want same background color for all the avatar then just pass one color in the         background array.
+
+  * also you can pass either color name or hex code of the color.
+
+  * ### https://discord.gg/QafWk8msHN
+
+
+
 
 ## Note
 
@@ -32,10 +42,10 @@ need to follow:
 * apply class as 'avatar_initials' in your template file.
 * pass the firstName and lastName in the 'getInitials' function.
     example: 
-        ```HTML
+        ```
         <div class="avatar_initials"> {{getInitials('john','doe')}}</div>
         ```
-
+       
 
 ## Angular/Ionic Implementation
 
@@ -63,7 +73,7 @@ export class TestComponentComponent implements OnInit {
       width: '50px', 
       height: '50px', 
       font_weight: '600', 
-      background: '#a2b9bc', 
+      background: ['#f44336', '#e91e63', '#9c27b0', '#673ab7', '#3f51b5'], 
       color: '#fff', 
       padding: '2px' 
     });
